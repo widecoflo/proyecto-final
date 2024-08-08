@@ -1,0 +1,6 @@
+@backendColegioProfesional_HostAddress = http://localhost:5120
+
+GET {{backendColegioProfesional_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
